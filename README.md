@@ -16,9 +16,10 @@ This README is written in linux :penguin: and totally unrelated to the content
 
 This is a 'code' example.
 
-'''python
+```python
 print("This Phyton should be unformatted")
-'''
+```
 
-'''java
+```java
 System.out.println("And this one should be in Java syntax")
+```
